@@ -59,8 +59,8 @@ Note that you can download more models and navigate between them from the drop-d
 
 1- Go to https://ollama.com/library/deepseek-r1
 
-2- choose the new model then copy the related command
+2- Choose the new model then copy the related command
 
-3- run it in the terminal
+3- Run it in the terminal
 
 3- Refresh the webpage, then choose the new model
