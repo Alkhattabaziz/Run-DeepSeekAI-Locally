@@ -1,7 +1,7 @@
 # Run DeepSeek AI Models Locally
 This’s an easy demonstration of how to run the new DeepSeek AI models locally. With the use of Ollama, aka large language model, which allows us to run AI models on our local machines.
 
-Then followed it up with the installation of Open WebUI for a nice user interface which will make it similar to ChatGPT.
+Followed up with the installation of Open WebUI for a nice user interface which will make it similar to ChatGPT.
 
 <br /><br />
 <h1>STEP 1: Ollama Installation</h1>
@@ -25,7 +25,7 @@ Copy the command next to the model of your choice then run it in the terminal.
 
 <img src="https://i.imgur.com/viLyREi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h3>You have successfuly installed it and  can run it locally, here's a simple prompt: </h3>
+<h3>You have successfuly installed it and  can run it locally. Here's a simple prompt: </h3>
 
 <img src="https://i.imgur.com/QKyZ9lK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -40,14 +40,14 @@ Before starting the installation of Open WebUI, we need to install Docker: https
 
 After finishing downloading and installing Docker, open it and keep it running on the background. (*No need to create an account*)
 
-Now it’s time to have a nicer UI to work with DeepSeek. We can install Open WebUI from their website: https://docs.openwebui.com/  
+Now it’s time to have a nicer UI to use with DeepSeek. We can install Open WebUI from their website: https://docs.openwebui.com/  
 
-Then copy the first command and paste it on the terminal and run it. After that, open Docker and you will see a container with a port number which allows to open a web tab inside a browser offline.
+Copy the first command and paste it on the terminal and run it. After that, open Docker and you will see a container with a port number which allows to open a web tab inside a browser "offline".
 
 <img src="https://i.imgur.com/psn3ptd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-Click on the port which will open the webpage and then you’ll need to sign up to be able to use the Open WebUI
+Click on the port which will open the webpage, and then you’ll need to sign up to be able to use the Open WebUI
 
 
 
