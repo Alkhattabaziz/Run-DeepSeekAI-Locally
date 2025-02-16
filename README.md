@@ -9,8 +9,8 @@ Go to https://ollama.com/download and choose the suitable operating system. Here
 
 Copy the command then post it on the terminal to run it.
 
-<img src="https://i.imgur.com/Pf2sIJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ms3ta8f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mDTxdDa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AAJh1dN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br /><br />
@@ -35,7 +35,7 @@ Copy the command next to the model of your choice then run it in the terminal.
 Before starting the installation of Open WebUI, we need to install Docker: https://www.docker.com/  as a base to run Open WebUI. Follow the steps based on your operating system.
 
 
-<img src="https://i.imgur.com/dmlos2i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vmO3zOF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 After finishing downloading and installing Docker, open it and keep it running on the background. (*No need to create an account*)
